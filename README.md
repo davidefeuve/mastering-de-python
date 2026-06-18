@@ -62,3 +62,7 @@ mastering-de-python/
 ## Author
 
 David Fernandez
+
+## Project Status
+
+In progress
