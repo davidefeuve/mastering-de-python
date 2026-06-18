@@ -43,9 +43,20 @@ The exercises cover topics such as:
 ## Repository Structure
 
 ```text
-datasets/                Source datasets
-screenshots/             Screenshots of exercises and outputs
-hands_on_exercises.ipynb Main notebook containing all exercises
+mastering-de-python/
+│
+├── datasets/
+│   ├── sales.csv
+│   └── sales.parquet
+│
+├── screenshots/
+│   ├── PostgreSQL_db_creation.png
+│   └── PostgreSQL_db_table.png
+│
+├── .env.example
+├── .gitignore
+├── README.md
+└── hands_on_exercises.ipynb
 ```
 
 ## Author
