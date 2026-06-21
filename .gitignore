@@ -7,3 +7,6 @@ datasets/sales.json
 data_cleaning.log
 datasets/orders_flat.csv
 datasets/orders_flat.parquet
+datasets/data.csv
+datasets/data.json
+datasets/data.parquet

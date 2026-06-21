@@ -77,6 +77,15 @@ The exercises cover topics such as:
 * Exported processed data to CSV and Parquet formats
 * Demonstrated handling of semi-structured data commonly used in data engineering workflows
 
+### Exercise 8 – Performance Benchmarking
+
+- Generated a dataset containing 1,000,000 records using pandas and NumPy
+- Benchmarked CSV, JSON and Parquet file formats
+- Measured write performance for each format
+- Measured read performance for each format
+- Compared storage requirements across formats
+- Demonstrated the efficiency advantages of Parquet for analytical workloads
+
 ## Repository Structure
 
 ```text
